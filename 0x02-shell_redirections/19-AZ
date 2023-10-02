@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Access Denied" | sed 's/A/Z/g; s/c/e/g'
