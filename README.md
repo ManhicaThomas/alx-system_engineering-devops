@@ -1,1 +1,1 @@
-#!/bin/bash
+we are doing shell permissions
