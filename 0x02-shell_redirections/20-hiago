@@ -1,2 +1,2 @@
 #!/bin/bash
-cleaned_input=$(echo "$input" | tr -d 'cC')
+tr -d Cc
