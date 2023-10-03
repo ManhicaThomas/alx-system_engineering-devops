@@ -1,0 +1,2 @@
+#!/bin/bash
+for var in $(env | awk -F= '{print $1'}; do 
