@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$((BREATH ** LOVE)) | echo "Result of BREATH ^ LOVE: $result" | echo
+echo $((BREATH**LOVE))
