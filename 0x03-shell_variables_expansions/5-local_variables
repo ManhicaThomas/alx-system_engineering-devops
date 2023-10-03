@@ -1,2 +1,2 @@
 #!/bin/bash
-local_vars=$(set -0 posix ; set) | env_vars=$(env)
+set
