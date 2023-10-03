@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Decimal (base 10) equivalent of '$BINARY' is: '$decimal'" | echo
+echo $((2#$BINARY))
