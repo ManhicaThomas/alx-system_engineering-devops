@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "DECIMAL is not set." | hexadecimal=$(printf "%X\n" "%DECIMAL") | echo "Hexadecimal (base 16) equivalent of $DECIMAL is: $hexadecimal" | echo
